@@ -1,7 +1,7 @@
 {
-  "name": "decky-plugin-template",
+  "name": "playercount-decky-plugin",
   "version": "0.0.1",
-  "description": "A template to quickly create decky plugins from scratch, based on TypeScript and webpack",
+  "description": "A Decky plugin that shows the player count on the game page.",
   "scripts": {
     "build": "shx rm -rf dist && rollup -c",
     "watch": "rollup -c -w",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SteamDeckHomebrew/decky-plugin-template.git"
+    "url": "git+https://github.com/miva2/decky-playercount.git"
   },
   "keywords": [
     "decky",
