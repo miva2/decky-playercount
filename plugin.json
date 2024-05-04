@@ -3,7 +3,7 @@
   "author": "miva2",
   "flags": [],
   "publish": {
-    "tags": ["template", "root"],
+    "tags": ["playercount", "players"],
     "description": "Shows the player count on the game page.",
     "image": "https://opengraph.githubassets.com/1/SteamDeckHomebrew/PluginLoader"
   }
