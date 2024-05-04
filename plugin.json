@@ -1,7 +1,7 @@
 {
   "name": "PlayerCount",
   "author": "miva2",
-  "flags": ["debug", "_root"],
+  "flags": [],
   "publish": {
     "tags": ["template", "root"],
     "description": "Shows the player count on the game page.",
